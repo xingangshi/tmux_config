@@ -54,13 +54,7 @@ you're on your own. Instead, every customization should happen in your
 If you're a Vim user, setting the `$EDITOR` environment variable to `vim` will
 enable and further customize the vi-style key bindings (see tmux manual).
 
-If you're new to tmux, I recommend you to read [tmux 2: Productive Mouse-Free
-Development][bhtmux2] by [@bphogan].
-
 Now proceed to [adjust] your `.local` customization file copy.
-
-[bhtmux2]: https://pragprog.com/titles/bhtmux2/tmux-2
-[adjust]: #configuration
 
 Troubleshooting
 ---------------
